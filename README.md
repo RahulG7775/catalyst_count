@@ -62,7 +62,7 @@ env
 
 Step 3: Created new Repo on GitHub
 git init
-git remote add origin https://github.com/Sneham14/catalyst_count.git
+git remote add origin https://github.com/RahulG7775/catalyst_count.git
 
 Terminal command to save and commit the changes on .gitignore:-
 git add .gitignore
